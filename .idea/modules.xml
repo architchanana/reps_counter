@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Chandigarh University/.idea/Chandigarh University.iml" filepath="$PROJECT_DIR$/../Chandigarh University/.idea/Chandigarh University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Face_detection.iml" filepath="$PROJECT_DIR$/.idea/Face_detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Udemy/.idea/Udemy.iml" filepath="$PROJECT_DIR$/../Udemy/.idea/Udemy.iml" />
+    </modules>
+  </component>
+</project>
